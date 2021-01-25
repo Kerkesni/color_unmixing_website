@@ -7,12 +7,18 @@
 ## How to get it working
 
 ```bash
+# Clone this project
+git clone https://github.com/Kerkesni/color_unmixing_website
+
+# Get inside project directory
+$ cd ./color_unmixing_website
+
 # install dependencies
 $ yarn install
 
 # generate static project
 $ yarn generate
 
-# Deploy
+# deploy localy
 $ yarn start
 ```
