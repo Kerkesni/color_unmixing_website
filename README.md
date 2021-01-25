@@ -1,6 +1,10 @@
 # color_unmixing_website
 
-## Build Setup
+## Prerequisites
+- [npm](https://www.npmjs.com/get-npm)
+- [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
+
+## How to get it working
 
 ```bash
 # install dependencies
