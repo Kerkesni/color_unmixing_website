@@ -46,7 +46,7 @@
       <div id="res_tit">
         <b>Remarks</b>
         <ul>
-          <li>We get compact layers that represent multiple ressembling color values witch makes layer editing very intuitive</li>
+          <li>We get compact layers that represent multiple ressembling color values which makes layer editing very intuitive</li>
           <li>The reconstructed image is very similar to the original input image, so we don't have to worry about quality loss</li>
         </ul>
       </div>
